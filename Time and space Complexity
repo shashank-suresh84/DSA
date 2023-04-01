@@ -1,0 +1,12 @@
+Time and Space Complexity is written in Notes
+
+Uses Big O notations,
+avoid constants,avoid lower numbers
+
+space complexity is auxiliary spacE+input space
+
+Do not manipulate the data until and unless the Interviewer Asks you to.
+
+Interviewer might judge your code based on the Time Complexity
+
+
